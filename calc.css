@@ -1,0 +1,47 @@
+button{
+    padding: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 60px;
+    margin-top: 10px;
+    margin-left: 5px;
+   box-shadow: white;
+   box-shadow: 5px;
+   border: black;
+    
+}
+input{
+    height: 50px;
+    width:250px;
+    border-radius: 20px;
+    border-color: orange;
+    border:solid 2px;
+    margin-top: 5px;
+}
+.first-row button{
+    color: black;
+    background-color: orange;
+}
+#r2-4{
+    color: black;
+    background-color: orange;
+}
+#r3-4
+{
+    color: black;
+    background-color: orange;
+}
+#r4-4
+{
+    color: black;
+    background-color: orange;
+}
+.fifth-row button{
+    color: black;
+    background-color: orange;
+}
+.container{
+    background-color: aqua;
+    height: 400px;
+    width: 300px;
+}
